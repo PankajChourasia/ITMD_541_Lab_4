@@ -94,6 +94,7 @@
     body {
         background-image: "/weather.jpeg";
         background-repeat: no-repeat;
+        background-color: azure;
       }
     
     .btn:hover, .btn:focus, .btn: active{
